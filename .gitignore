@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.save
+dupe_quarantine/
+manifest.json
+.env
